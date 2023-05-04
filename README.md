@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React/Flask projects
 - 🌱 I’m currently learning JavaScript, Python
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on anyone
+- 🤔 I’m looking for help with Job Search
+- 💬 Ask me about any questions you have
+- 📫 How to reach me: wang6@hawaii.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm only child in my family
 -->
