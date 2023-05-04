@@ -10,6 +10,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm only child in my family
 
+![pikachu](https://www.pixelstalk.net/wp-content/uploads/images1/Screen-Cute-Pikachu-Wallpapers.jpeg)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
