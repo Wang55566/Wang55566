@@ -8,7 +8,7 @@
 - 💬 Ask me about any questions you have
 - 📫 How to reach me: wang6@hawaii.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm only child in my family
+- ⚡ Fun fact: I'm the only child in my family
 
 ![pikachu](https://www.pixelstalk.net/wp-content/uploads/images1/Screen-Cute-Pikachu-Wallpapers.jpeg)
 
