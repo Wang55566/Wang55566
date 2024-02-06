@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Seng Wang. It is my pleasure to your visit 👋</h1>
 
+![Screenshot 2024-02-06 012843](https://github.com/Wang55566/Wang55566/assets/110356602/1078ae03-89c6-42d6-860c-14c4e238f8bf)
 
 - 🔭 I’m currently working on [Game Display Center](https://game-center-sepia.vercel.app/)
 
@@ -10,8 +11,6 @@
 - 💬 Ask me about **React, Typescript, Python, and DS&A**
 
 - 📫 How to reach me **wang6@hawaii.edu**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wang55566" alt="wang55566" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
