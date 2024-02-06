@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Seng Wang. It is my pleasure to your visit 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wang55566&label=Profile%20views&color=0e75b6&style=flat" alt="wang55566" /> </p>
 
 - 🔭 I’m currently working on [Game Display Center](https://game-center-sepia.vercel.app/)
 
