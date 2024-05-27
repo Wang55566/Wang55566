@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Seng Wang. It is my pleasure to your visit 👋</h1>
 
-![Screenshot 2024-02-06 012843](https://github.com/Wang55566/Wang55566/assets/110356602/1078ae03-89c6-42d6-860c-14c4e238f8bf)
+![Screenshot 2024-05-27 081104](https://github.com/Wang55566/Wang55566/assets/110356602/bcf05593-d45c-49e8-bccf-4951d7331bdc)
 
 - 🔭 I’m currently working on [Game Display Center](https://game-center-sepia.vercel.app/)
 
