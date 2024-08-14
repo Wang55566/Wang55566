@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Typescript, Python, and DS&A**
 
-- 📫 How to reach me **Wang6@hawaii.edu**
+- 📫 How to find me **Wang6@hawaii.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
