@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Game Display Center](https://game-center-sepia.vercel.app/)
 
-- 🌱 I’m currently learning **Typescript, Docker**
+- 🌱 I am learning **Typescript, Docker**
 
 - 👯 I’m looking to collaborate on [Pokemon Showdown](https://pokemonshowdown.com/)
 
