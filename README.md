@@ -6,7 +6,7 @@
 
 - 🌱 I am learning **Typescript, Docker**
 
-- 👯 I am looking to collaborate on [Pokemon Showdown](https://pokemonshowdown.com/)
+- 👯 I'm looking to collaborate on [Pokemon Showdown](https://pokemonshowdown.com/)
 
 - 💬 Ask me about **React, Typescript, Python, and DS&A**
 
