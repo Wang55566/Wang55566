@@ -2,11 +2,11 @@
 
 ![Screenshot 2024-05-27 081104](https://github.com/Wang55566/Wang55566/assets/110356602/bcf05593-d45c-49e8-bccf-4951d7331bdc)
 
-- 🔭 I’m currently working on [Game Display Center](https://game-center-sepia.vercel.app/)
+- 🔭 I am currently working on [Game Display Center](https://game-center-sepia.vercel.app/)
 
 - 🌱 I am learning **Typescript, Docker**
 
-- 👯 I'm looking to collaborate on [Pokemon Showdown](https://pokemonshowdown.com/)
+- 👯 I am looking to collaborate on [Pokemon Showdown](https://pokemonshowdown.com/)
 
 - 💬 Tell me about **React, Typescript, Python, and DS&A**
 
