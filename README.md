@@ -8,7 +8,7 @@
 
 - 👯 I am looking to collaborate on [Pokemon Showdown](https://pokemonshowdown.com/)
 
-- 💬 Tell me about **React, Typescript, Python, and DS&A**
+- 💬 Tell me more about **React, Typescript, Python, and DS&A**
 
 - 📫 where to find me**Wang6@hawaii.edu**
 
