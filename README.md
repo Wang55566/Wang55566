@@ -10,7 +10,7 @@
 
 - 💬 Tell me more about **React, Typescript, Python, and DS&A**
 
-- 📫 where to find me**Wang6@hawaii.edu**
+- 📫 where to find us **Wang6@hawaii.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
