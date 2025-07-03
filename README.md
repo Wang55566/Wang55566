@@ -1,4 +1,4 @@
-<img width="1340" alt="截圖 2025-07-03 下午4 07 58" src="https://github.com/user-attachments/assets/0b433d5a-f090-46f6-b5d3-72bfed7f9583" /><h1 align="center">Hi, My name is Seng Wang. It is my pleasure to your visit </h1>
+<h1 align="center">Hi, My name is Seng Wang. It is my pleasure to your visit </h1>
 
 <img width="1340" alt="截圖 2025-07-03 下午4 07 58" src="https://github.com/user-attachments/assets/87776404-08cc-4534-b7c7-1b33a0f01610" />
 
