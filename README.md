@@ -1,12 +1,11 @@
-<h1 align="center">Hi, My name is Seng Wang. It is my pleasure to your visit </h1>
+<img width="1340" alt="截圖 2025-07-03 下午4 07 58" src="https://github.com/user-attachments/assets/0b433d5a-f090-46f6-b5d3-72bfed7f9583" /><h1 align="center">Hi, My name is Seng Wang. It is my pleasure to your visit </h1>
 
-![Screenshot 2024-05-27 081104](https://github.com/Wang55566/Wang55566/assets/110356602/bcf05593-d45c-49e8-bccf-4951d7331bdc)
+<img width="1340" alt="截圖 2025-07-03 下午4 07 58" src="https://github.com/user-attachments/assets/87776404-08cc-4534-b7c7-1b33a0f01610" />
 
-- 🔭 I am currently working on [Game Display Center](https://game-center-sepia.vercel.app/)
 
-- 🌱 I am learning **Typescript, Docker**
+- 🔭 I am currently working on [My Portfolio]([https://game-center-sepia.vercel.app/](https://main.da699fekllavr.amplifyapp.com/))
 
-- 👯 I am looking to collaborate on [Pokemon Showdown](https://pokemonshowdown.com/)
+- 🌱 I am learning **Typescript, MCP**
 
 - 💬 Tell me more about **React, Typescript, Python, and DS&A**
 
